@@ -1,3 +1,7 @@
+##Nombre: TOMALA GONZALEZ CESAR STEVEN.
+#TAREA DE EJERCICIOS DESARROLLAR EJERCICIOS DE LÓGICA EN PYTHON.
+#Carrera de ingenieria en Software.
+
 class operaciones:
 
     def tipo_dato(self):
@@ -489,19 +493,6 @@ class operaciones:
             else:
                 print("Fecha incorrecta")
         print("Fin del programa") 
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     # EJERCICIOS CON FOR:
 
@@ -1095,7 +1086,6 @@ class operaciones:
             print (caracter,":",cantidad)  
     
 
-
     #11.2
 
     def eje1(self):   
@@ -1233,5 +1223,3 @@ class operaciones:
         imprimirlistado(socios_activos)
 
 res=operaciones()
-res.Cadena()
-
